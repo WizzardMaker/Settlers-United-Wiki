@@ -10,7 +10,7 @@ try:
     repo_path = sys.argv[1]
 except IndexError:
     print("Usage: python migrateGitbook.py <path_to_repository>")
-    repo_path = "../docs/de/Siedler-4/"
+    repo_path = "../docs/de/S4/"
     #sys.exit(1)
 
 if not os.path.isdir(repo_path):

@@ -1,3 +1,6 @@
-[submodule "docs/de/Siedler-4"]
-	path = docs/de/Siedler-4
+[submodule "docs/de/S4"]
+	path = docs/de/S4
 	url = https://github.com/WizzardMaker/Settlers-4-Wiki-DE.git
+[submodule "docs/en/S4"]
+	path = docs/en/S4
+	url = https://github.com/WizzardMaker/Settlers-4-Wiki-EN.git

@@ -4,14 +4,14 @@ import shutil
 
 class Gitbook2Mkdocs():
     def on_page_markdown(self, markdown, page, config, files, **kwargs):
-        # Replace GitBook syntax with MkDocs syntax
-        markdown = self.replace_gitbook_syntax(markdown)
-
         # Replace HTML figures with Markdown images
         markdown = self.replace_figures_with_images(markdown)
 
         # Replace GitBook videos with iframes
         markdown = self.replace_videos_with_iframes(markdown)
+        
+        # Replace GitBook syntax with MkDocs syntax
+        markdown = self.replace_gitbook_syntax(markdown)
 
         # Replace all references to .gitbook directory with assets
         markdown = markdown.replace(".gitbook/assets/", "assets/")
@@ -145,6 +145,12 @@ class Gitbook2Mkdocs():
         #     r"![\2](\1)",
         #     markdown,
         # )
+
+        markdown = re.sub(
+            r'src="\.\./(?:\.gitbook/)?assets/(.*?)"',
+            r'src="../../assets/\1"',
+            markdown
+        )
 
         markdown = re.sub(
             r'!\[(.*?)\]\(<?(.*?)>?\)',

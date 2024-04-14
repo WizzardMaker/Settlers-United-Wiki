@@ -1,0 +1,55 @@
+site_name: Settlers United Documentation
+
+docs_dir: '../docs/'
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.tooltips
+    - announce.dismiss
+    - search.suggest
+    - search.highlight
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep orange
+
+markdown_extensions:
+  - attr_list
+  - abbr
+  - md_in_html
+  - tables
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+
+plugins:
+  - awesome-pages
+  - search
+  - i18n:
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: de
+          name: Deutsch
+          site_name: Settlers United Dokumentation
+          build: true
