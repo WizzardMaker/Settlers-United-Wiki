@@ -1,0 +1,10 @@
+INHERIT: ../base.yml
+docs_dir: '../../docs/en'
+site_dir: '../../generated/en'
+
+theme:
+  language: en
+
+plugins:
+  - search:                                         
+      lang: en                                      # Set language for search

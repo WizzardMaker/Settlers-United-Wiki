@@ -1,0 +1,21 @@
+.tabbed-content {
+    width: 100%;
+    /* border: solid 2px var(--md-default-fg-color);
+    border-top: none; */
+    padding: 0 10px;
+    
+    box-shadow: 2px -2px var(--md-default-fg-color--lighter) inset,
+                -2px -2px var(--md-default-fg-color--lighter) inset;
+}
+
+[data-md-color-scheme=slate] {
+    --md-default-bg-color: #1f1f1f;
+}
+
+.md-header {
+    background-color: #0d1f33 !important;
+}
+
+.md-typeset figcaption {
+    text-align: center;
+}
