@@ -1,6 +1,8 @@
 [submodule "docs/de/S4"]
 	path = docs/de/S4
-	url = https://github.com/WizzardMaker/Settlers-4-Wiki-DE.git
+	url = https://github.com/WizzardMaker/Settlers-4-Wiki.git
+	branch = de
 [submodule "docs/en/S4"]
 	path = docs/en/S4
-	url = https://github.com/WizzardMaker/Settlers-4-Wiki-EN.git
+	url = https://github.com/WizzardMaker/Settlers-4-Wiki.git
+	branch = en
