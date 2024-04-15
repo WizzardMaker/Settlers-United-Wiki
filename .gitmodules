@@ -6,3 +6,9 @@
 	path = docs/en/S4
 	url = https://github.com/WizzardMaker/Settlers-4-Wiki.git
 	branch = en
+[submodule "docs/de/S3"]
+	path = docs/de/S3
+	url = https://github.com/WizzardMaker/Siedler-3-Wiki.git
+[submodule "docs/en/S3"]
+	path = docs/en/S3
+	url = https://github.com/WizzardMaker/Siedler-3-Wiki.git

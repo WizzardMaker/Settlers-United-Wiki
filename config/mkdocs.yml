@@ -8,6 +8,7 @@ theme:
   favicon: assets/favicon.webp
   logo: assets/favicon.webp
   features:
+    - navigation.indexes 
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
