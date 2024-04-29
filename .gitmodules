@@ -12,3 +12,11 @@
 [submodule "docs/en/S3"]
 	path = docs/en/S3
 	url = https://github.com/WizzardMaker/Siedler-3-Wiki.git
+[submodule "docs/de/S4-WarriorsLib"]
+	path = docs/de/S4-WarriorsLib
+	url = https://github.com/WizzardMaker/S4-WarriorsLib-Wiki.git
+	branch = de
+[submodule "docs/en/S4-WarriorsLib"]
+	path = docs/en/S4-WarriorsLib
+	url = https://github.com/WizzardMaker/S4-WarriorsLib-Wiki.git
+	branch = en
