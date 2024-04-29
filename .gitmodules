@@ -28,3 +28,11 @@
 	path = docs/en/SU
 	url = https://github.com/WizzardMaker/Settlers-United-Main-Wiki.git
 	branch = en
+[submodule "docs/de/S4-Lua"]
+	path = docs/de/S4-Lua
+	url = https://github.com/WizzardMaker/Settlers-4-Lua-API-Wiki.git
+	branch = de
+[submodule "docs/en/S4-Lua"]
+	path = docs/en/S4-Lua
+	url = https://github.com/WizzardMaker/Settlers-4-Lua-API-Wiki.git
+	branch = en
