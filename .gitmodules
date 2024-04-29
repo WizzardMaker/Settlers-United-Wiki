@@ -20,3 +20,11 @@
 	path = docs/en/S4-WarriorsLib
 	url = https://github.com/WizzardMaker/S4-WarriorsLib-Wiki.git
 	branch = en
+[submodule "docs/de/SU"]
+	path = docs/de/SU
+	url = https://github.com/WizzardMaker/Settlers-United-Main-Wiki.git
+	branch = de
+[submodule "docs/en/SU"]
+	path = docs/en/SU
+	url = https://github.com/WizzardMaker/Settlers-United-Main-Wiki.git
+	branch = en
