@@ -1,0 +1,3321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/"/>
+    </url>
+    <url>
+        <loc>NoneS3/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/"/>
+    </url>
+    <url>
+        <loc>NoneS3/combat-mechanics/damage-and-strength/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/combat-mechanics/damage-and-strength/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/combat-mechanics/damage-and-strength/"/>
+    </url>
+    <url>
+        <loc>NoneS3/combat-mechanics/soldiers-and-wonders/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/combat-mechanics/soldiers-and-wonders/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/combat-mechanics/soldiers-and-wonders/"/>
+    </url>
+    <url>
+        <loc>NoneS3/combat-mechanics/unit-values/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/combat-mechanics/unit-values/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/combat-mechanics/unit-values/"/>
+    </url>
+    <url>
+        <loc>NoneS3/mana-and-magic/area-of-effect/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/mana-and-magic/area-of-effect/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/mana-and-magic/area-of-effect/"/>
+    </url>
+    <url>
+        <loc>NoneS3/mana-and-magic/basics/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/mana-and-magic/basics/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/mana-and-magic/basics/"/>
+    </url>
+    <url>
+        <loc>NoneS3/mana-and-magic/cost-progression/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/mana-and-magic/cost-progression/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/mana-and-magic/cost-progression/"/>
+    </url>
+    <url>
+        <loc>NoneS3/mana-and-magic/table-of-knowledge/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/mana-and-magic/table-of-knowledge/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/mana-and-magic/table-of-knowledge/"/>
+    </url>
+    <url>
+        <loc>NoneS4/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/"/>
+    </url>
+    <url>
+        <loc>NoneS4/basics/abbreviations/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/basics/abbreviations/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/basics/abbreviations/"/>
+    </url>
+    <url>
+        <loc>NoneS4/basics/buildsite-priority/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/basics/buildsite-priority/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/basics/buildsite-priority/"/>
+    </url>
+    <url>
+        <loc>NoneS4/basics/terrain-and-roads/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/basics/terrain-and-roads/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/basics/terrain-and-roads/"/>
+    </url>
+    <url>
+        <loc>NoneS4/basics/working-radius/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/basics/working-radius/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/basics/working-radius/"/>
+    </url>
+    <url>
+        <loc>NoneS4/combat-mechanics/attack-canceling/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/combat-mechanics/attack-canceling/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/combat-mechanics/attack-canceling/"/>
+    </url>
+    <url>
+        <loc>NoneS4/combat-mechanics/effects-of-fighting-strength/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/combat-mechanics/effects-of-fighting-strength/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/combat-mechanics/effects-of-fighting-strength/"/>
+    </url>
+    <url>
+        <loc>NoneS4/combat-mechanics/einheitenwerte/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/combat-mechanics/einheitenwerte/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/combat-mechanics/einheitenwerte/"/>
+    </url>
+    <url>
+        <loc>NoneS4/combat-mechanics/fighting-strength-calculationg/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/combat-mechanics/fighting-strength-calculationg/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/combat-mechanics/fighting-strength-calculationg/"/>
+    </url>
+    <url>
+        <loc>NoneS4/multiplayer/getting-started-in-s4-multiplayer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/multiplayer/getting-started-in-s4-multiplayer/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/multiplayer/getting-started-in-s4-multiplayer/"/>
+    </url>
+    <url>
+        <loc>NoneS4/multiplayer/settlers-united/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/multiplayer/settlers-united/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/multiplayer/settlers-united/"/>
+    </url>
+    <url>
+        <loc>NoneS4/multiplayer/transport%2B-kohlebug-fix/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/multiplayer/transport%2B-kohlebug-fix/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/multiplayer/transport%2B-kohlebug-fix/"/>
+    </url>
+    <url>
+        <loc>NoneS4/multiplayer/ultimate-balance-overhaul-ubo/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/multiplayer/ultimate-balance-overhaul-ubo/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/multiplayer/ultimate-balance-overhaul-ubo/"/>
+    </url>
+    <url>
+        <loc>NoneS4/productionratios/he-maximum-buildup-2-1-gold/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/productionratios/he-maximum-buildup-2-1-gold/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/productionratios/he-maximum-buildup-2-1-gold/"/>
+    </url>
+    <url>
+        <loc>NoneS4/productionratios/nahrungsindustrie/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/productionratios/nahrungsindustrie/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/productionratios/nahrungsindustrie/"/>
+    </url>
+    <url>
+        <loc>NoneS4/productionratios/ressource-pro-minute/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/productionratios/ressource-pro-minute/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/productionratios/ressource-pro-minute/"/>
+    </url>
+    <url>
+        <loc>NoneS4/productionratios/schwerindustrie/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/productionratios/schwerindustrie/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/productionratios/schwerindustrie/"/>
+    </url>
+    <url>
+        <loc>NoneS4/productionratios/ticks-ressource/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/productionratios/ticks-ressource/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/productionratios/ticks-ressource/"/>
+    </url>
+    <url>
+        <loc>NoneS4/tipps-tricks/minenmechanik/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/tipps-tricks/minenmechanik/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/tipps-tricks/minenmechanik/"/>
+    </url>
+    <url>
+        <loc>NoneS4/tipps-tricks/s4editor%2B/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/tipps-tricks/s4editor%2B/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/tipps-tricks/s4editor%2B/"/>
+    </url>
+    <url>
+        <loc>NoneS4/tipps-tricks/score-formula-for-the-final-statistic/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/tipps-tricks/score-formula-for-the-final-statistic/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/tipps-tricks/score-formula-for-the-final-statistic/"/>
+    </url>
+    <url>
+        <loc>NoneS4/tipps-tricks/troja-9er-batterie/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/tipps-tricks/troja-9er-batterie/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/tipps-tricks/troja-9er-batterie/"/>
+    </url>
+    <url>
+        <loc>NoneS4/tipps-tricks/turmradius/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/tipps-tricks/turmradius/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/tipps-tricks/turmradius/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/archer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/archer/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/archer/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/axewarrior/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/axewarrior/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/axewarrior/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/blowgunwarrior/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/blowgunwarrior/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/blowgunwarrior/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/gardener/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/gardener/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/gardener/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/geologist/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/geologist/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/geologist/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/medics/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/medics/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/medics/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/pioneer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/pioneer/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/pioneer/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/priest/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/priest/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/priest/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/rucksackkatapultist/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/rucksackkatapultist/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/rucksackkatapultist/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/saboteur/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/saboteur/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/saboteur/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/squad-leader/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/squad-leader/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/squad-leader/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/swordsman/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/swordsman/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/swordsman/"/>
+    </url>
+    <url>
+        <loc>NoneS4/units/thief/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/thief/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/thief/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/ai/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/ai/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/ai/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/buildings/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/buildings/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/buildings/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/control/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/control/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/control/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/dialog/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/dialog/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/dialog/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/effects/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/effects/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/effects/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/events/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/events/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/events/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/game/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/game/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/game/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/goods/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/goods/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/goods/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/magic/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/magic/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/magic/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/menu/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/menu/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/menu/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/settlers/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/settlers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/settlers/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/sounds/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/sounds/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/sounds/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/api-enums/vehicles/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/vehicles/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/vehicles/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/ai/ai.attacknow/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/ai/ai.attacknow/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/ai/ai.attacknow/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/ai/ai.darktribeusedarkgardeners/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/ai/ai.darktribeusedarkgardeners/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/ai/ai.darktribeusedarkgardeners/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/ai/ai.darktribeuseshamans/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/ai/ai.darktribeuseshamans/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/ai/ai.darktribeuseshamans/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/ai/ai.newsquad/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/ai/ai.newsquad/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/ai/ai.newsquad/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/ai/ai.setplayervar/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/ai/ai.setplayervar/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/ai/ai.setplayervar/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/buildings/buildings.addbuilding/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.addbuilding/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.addbuilding/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/buildings/buildings.amount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.amount/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.amount/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/buildings/buildings.crushbuilding/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.crushbuilding/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.crushbuilding/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/buildings/buildings.delete/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.delete/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.delete/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/buildings/buildings.existsbuildinginarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.existsbuildinginarea/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.existsbuildinginarea/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/buildings/buildings.getfirstbuilding/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.getfirstbuilding/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.getfirstbuilding/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/buildings/buildings.getinhabitantamount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.getinhabitantamount/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.getinhabitantamount/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/buildings/buildings.gettarget/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.gettarget/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.gettarget/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/buildings/buildings.isselected/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.isselected/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.isselected/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/darktribe/darktribe.addmanakopter/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/darktribe/darktribe.addmanakopter/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/darktribe/darktribe.addmanakopter/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/darktribe/darktribe.flyto/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/darktribe/darktribe.flyto/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/darktribe/darktribe.flyto/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/dbg/dbg.aioff/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.aioff/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.aioff/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/dbg/dbg.aion/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.aion/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.aion/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/dbg/dbg.db/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.db/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.db/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/dbg/dbg.pi/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.pi/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.pi/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/dbg/dbg.sg/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.sg/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.sg/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/dbg/dbg.stm/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.stm/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.stm/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/dbg/dbg.tp/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.tp/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.tp/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/debug/debug.accessviolation/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.accessviolation/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.accessviolation/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/debug/debug.activateai/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.activateai/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.activateai/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/debug/debug.deactivateai/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.deactivateai/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.deactivateai/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/debug/debug.fatalerror/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.fatalerror/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.fatalerror/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/debug/debug.freeze/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.freeze/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.freeze/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/debug/debug.makedark/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.makedark/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.makedark/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/debug/debug.makegreen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.makegreen/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.makegreen/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/effects/effects.addeffect/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/effects/effects.addeffect/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/effects/effects.addeffect/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.areplayerareasconnected/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.areplayerareasconnected/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.areplayerareasconnected/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.defaultgameendcheck/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.defaultgameendcheck/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.defaultgameendcheck/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.defaultplayerlostcheck/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.defaultplayerlostcheck/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.defaultplayerlostcheck/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.defaultplayerslostcheck/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.defaultplayerslostcheck/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.defaultplayerslostcheck/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.disablelastnplayersinstatistic/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.disablelastnplayersinstatistic/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.disablelastnplayersinstatistic/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.enablelandexploredcheck/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.enablelandexploredcheck/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.enablelandexploredcheck/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.enemyplayerslost/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.enemyplayerslost/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.enemyplayerslost/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.findanyunit/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.findanyunit/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.findanyunit/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.getamountoftreesinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.getamountoftreesinarea/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.getamountoftreesinarea/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.getdifficulty/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.getdifficulty/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.getdifficulty/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.getnumberofsquareswithdarkland/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.getnumberofsquareswithdarkland/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.getnumberofsquareswithdarkland/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.getoffencefightingstrength/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.getoffencefightingstrength/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.getoffencefightingstrength/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.hasplayerlost/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.hasplayerlost/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.hasplayerlost/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.isalmostalllandexplored/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.isalmostalllandexplored/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.isalmostalllandexplored/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.isareadarkland/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.isareadarkland/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.isareadarkland/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.isareagreen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.isareagreen/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.isareagreen/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.isareaowned/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.isareaowned/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.isareaowned/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.localplayer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.localplayer/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.localplayer/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.numberofplayers/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.numberofplayers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.numberofplayers/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.playerlost/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.playerlost/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.playerlost/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.playerrace/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.playerrace/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.playerrace/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.random/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.random/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.random/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.random100/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.random100/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.random100/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.resetfogging/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.resetfogging/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.resetfogging/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.setalliesdontrevealfog/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.setalliesdontrevealfog/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.setalliesdontrevealfog/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.setfightingstrength/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.setfightingstrength/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.setfightingstrength/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.showclock/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.showclock/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.showclock/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.showtext/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.showtext/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.showtext/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/game/game.time/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.time/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.time/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/global-functions/new_game/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/global-functions/new_game/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/global-functions/new_game/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/global-functions/reg_func/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/global-functions/reg_func/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/global-functions/reg_func/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/global-functions/register_functions/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/global-functions/register_functions/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/global-functions/register_functions/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/global-functions/request_event/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/global-functions/request_event/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/global-functions/request_event/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/global-functions/unrequest_event/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/global-functions/unrequest_event/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/global-functions/unrequest_event/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/goods/goods.addpileex/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/goods/goods.addpileex/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/goods/goods.addpileex/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/goods/goods.amount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/goods/goods.amount/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/goods/goods.amount/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/goods/goods.delete/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/goods/goods.delete/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/goods/goods.delete/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/goods/goods.getamountinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/goods/goods.getamountinarea/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/goods/goods.getamountinarea/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/magic/magic.castspell/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/magic/magic.castspell/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/magic/magic.castspell/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/magic/magic.currentmanaamount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/magic/magic.currentmanaamount/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/magic/magic.currentmanaamount/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/magic/magic.decreasemana/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/magic/magic.decreasemana/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/magic/magic.decreasemana/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/magic/magic.increasemana/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/magic/magic.increasemana/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/magic/magic.increasemana/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/map/map.adddecoobject/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.adddecoobject/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.adddecoobject/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/map/map.deletedecoobject/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.deletedecoobject/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.deletedecoobject/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/map/map.height/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.height/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.height/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/map/map.pointisonscreen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.pointisonscreen/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.pointisonscreen/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/map/map.setscreenpos/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.setscreenpos/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.setscreenpos/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/map/map.width/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.width/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.width/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/settlers/settlers.addsettlers/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.addsettlers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.addsettlers/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/settlers/settlers.addsettlerstoferry/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.addsettlerstoferry/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.addsettlerstoferry/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/settlers/settlers.amount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.amount/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.amount/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/settlers/settlers.amountinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.amountinarea/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.amountinarea/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/settlers/settlers.amountinsector/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.amountinsector/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.amountinsector/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/settlers/settlers.isselected/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.isselected/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.isselected/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/settlers/settlers.killselectablesettlers/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.killselectablesettlers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.killselectablesettlers/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/settlers/settlers.productionamount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.productionamount/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.productionamount/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/settlers/settlers.sethealthinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.sethealthinarea/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.sethealthinarea/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/statistic/statistic.buildingscaptured/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.buildingscaptured/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.buildingscaptured/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/statistic/statistic.goodsproduced/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.goodsproduced/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.goodsproduced/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/statistic/statistic.landownedbyplayer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.landownedbyplayer/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.landownedbyplayer/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/statistic/statistic.manacollected/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.manacollected/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.manacollected/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/statistic/statistic.mushroomfarmsdestroyed/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.mushroomfarmsdestroyed/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.mushroomfarmsdestroyed/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/statistic/statistic.servantsfreed/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.servantsfreed/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.servantsfreed/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/statistic/statistic.spellscast/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.spellscast/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.spellscast/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/statistic/statistic.unitsdestroyed/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.unitsdestroyed/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.unitsdestroyed/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.clearmarker/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.clearmarker/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.clearmarker/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.deleteworldcursor/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.deleteworldcursor/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.deleteworldcursor/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.disablecontrols/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.disablecontrols/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.disablecontrols/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.disableexcept/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.disableexcept/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.disableexcept/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.enableallcontrols/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.enableallcontrols/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.enableallcontrols/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.enablecontrols/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.enablecontrols/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.enablecontrols/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.exit/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.exit/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.exit/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.getcurrentzoomfactor/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.getcurrentzoomfactor/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.getcurrentzoomfactor/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.pressbutton/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.pressbutton/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.pressbutton/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.rwm/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.rwm/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.rwm/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.selectnextbuilding/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.selectnextbuilding/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.selectnextbuilding/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.setmarker/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.setmarker/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.setmarker/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.setworldcursor/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.setworldcursor/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.setworldcursor/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.setzoom/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.setzoom/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.setzoom/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.showtext/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.showtext/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.showtext/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/tutorial/tutorial.won/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.won/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.won/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/vehicles/vehicles.addvehicle/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.addvehicle/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.addvehicle/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/vehicles/vehicles.addwheelertoferry/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.addwheelertoferry/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.addwheelertoferry/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/vehicles/vehicles.amount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.amount/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.amount/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/vehicles/vehicles.amountinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.amountinarea/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.amountinarea/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/vehicles/vehicles.amountinsector/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.amountinsector/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.amountinsector/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/vehicles/vehicles.getferrycargoinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.getferrycargoinarea/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.getferrycargoinarea/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/vehicles/vehicles.gethealth/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.gethealth/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.gethealth/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/vehicles/vehicles.isselected/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.isselected/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.isselected/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/library-functions/vehicles/vehicles.killvehicles/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.killvehicles/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.killvehicles/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/advanced-tipps/anticheat/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/anticheat/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/anticheat/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/advanced-tipps/delete-all-buildings/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/delete-all-buildings/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/delete-all-buildings/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/advanced-tipps/die-vars.save-variablen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/die-vars.save-variablen/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/die-vars.save-variablen/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/advanced-tipps/moderner-lua-compiler/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/moderner-lua-compiler/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/moderner-lua-compiler/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/advanced-tipps/place-buildings/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/place-buildings/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/place-buildings/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/advanced-tipps/s4editor-export-path-changer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/s4editor-export-path-changer/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/s4editor-export-path-changer/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/beginning/entrypoint-new_game/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/beginning/entrypoint-new_game/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/beginning/entrypoint-new_game/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/beginning/entrypoint-register_functions-events-1/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/beginning/entrypoint-register_functions-events-1/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/beginning/entrypoint-register_functions-events-1/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/beginning/installation-and-aufsetzen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/beginning/installation-and-aufsetzen/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/beginning/installation-and-aufsetzen/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/beginning/siegbedingungen-anpassen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/beginning/siegbedingungen-anpassen/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/beginning/siegbedingungen-anpassen/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/code-snippets/all-points-in-a-circle-hexagon/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/all-points-in-a-circle-hexagon/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/all-points-in-a-circle-hexagon/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/code-snippets/anzahl-soldaten/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/anzahl-soldaten/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/anzahl-soldaten/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/code-snippets/better-randomnumbers/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/better-randomnumbers/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/better-randomnumbers/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/code-snippets/foreach_ext/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/foreach_ext/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/foreach_ext/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/code-snippets/mehr-als-8-waren-spawnen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/mehr-als-8-waren-spawnen/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/mehr-als-8-waren-spawnen/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/code-snippets/neue-minute-angebrochen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/neue-minute-angebrochen/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/neue-minute-angebrochen/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/code-snippets/random-innerhalb-bereich/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/random-innerhalb-bereich/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/random-innerhalb-bereich/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/code-snippets/round-and-modulo/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/round-and-modulo/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/round-and-modulo/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/code-snippets/textnachricht-nur-fuer-einen-spieler/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/textnachricht-nur-fuer-einen-spieler/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/textnachricht-nur-fuer-einen-spieler/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/community-libraries/lua-ground-library/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/community-libraries/lua-ground-library/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/community-libraries/lua-ground-library/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/community-libraries/lua-minute-events-library/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/community-libraries/lua-minute-events-library/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/community-libraries/lua-minute-events-library/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/community-libraries/lua-vars-save-extender/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/community-libraries/lua-vars-save-extender/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/community-libraries/lua-vars-save-extender/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/complete-mapscripts/tournament-map-script-1/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/complete-mapscripts/tournament-map-script-1/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/complete-mapscripts/tournament-map-script-1/"/>
+    </url>
+    <url>
+        <loc>NoneS4-Lua/tutorials/complete-mapscripts/tournament-map-script/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/complete-mapscripts/tournament-map-script/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/complete-mapscripts/tournament-map-script/"/>
+    </url>
+    <url>
+        <loc>NoneS4-RE/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/"/>
+    </url>
+    <url>
+        <loc>NoneS4-RE/concepts/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/concepts/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/concepts/"/>
+    </url>
+    <url>
+        <loc>NoneS4-RE/concepts/config/defaults/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/concepts/config/defaults/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/concepts/config/defaults/"/>
+    </url>
+    <url>
+        <loc>NoneS4-RE/concepts/config/syntax/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/concepts/config/syntax/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/concepts/config/syntax/"/>
+    </url>
+    <url>
+        <loc>NoneS4-RE/structs/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/"/>
+    </url>
+    <url>
+        <loc>NoneS4-RE/structs/generic/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/generic/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/generic/"/>
+    </url>
+    <url>
+        <loc>NoneS4-RE/structs/GfxEngine/CGfxManager/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/GfxEngine/CGfxManager/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/GfxEngine/CGfxManager/"/>
+    </url>
+    <url>
+        <loc>NoneS4-RE/structs/config/CConfigManager/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/config/CConfigManager/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/config/CConfigManager/"/>
+    </url>
+    <url>
+        <loc>NoneS4-RE/structs/config/CConfigVar/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/config/CConfigVar/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/config/CConfigVar/"/>
+    </url>
+    <url>
+        <loc>NoneS4-RE/structs/ui/UIElement/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/ui/UIElement/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/ui/UIElement/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/tutorials/is-the-plugin-loaded/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/tutorials/is-the-plugin-loaded/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/tutorials/is-the-plugin-loaded/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-enums/movementtype/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-enums/movementtype/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-enums/movementtype/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-enums/resourcetype/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-enums/resourcetype/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-enums/resourcetype/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.garrisonwarriors/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.garrisonwarriors/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.garrisonwarriors/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.getplayername/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.getplayername/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.getplayername/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountat/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountat/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountat/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountinarea/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountinarea/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.ishuman/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.ishuman/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.ishuman/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.recruitwarriors/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.recruitwarriors/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.recruitwarriors/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.selectwarriors/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.selectwarriors/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.selectwarriors/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.send/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.send/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.send/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.setbuildingworkarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.setbuildingworkarea/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.setbuildingworkarea/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.settradingroute/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.settradingroute/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.settradingroute/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.storegood/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.storegood/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.storegood/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.tradegood/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.tradegood/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.tradegood/"/>
+    </url>
+    <url>
+        <loc>NoneS4-WarriorsLib/warriorslib-functions/warriorslib.ungarrisonwarriors/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.ungarrisonwarriors/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.ungarrisonwarriors/"/>
+    </url>
+    <url>
+        <loc>NoneSU/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/"/>
+    </url>
+    <url>
+        <loc>NoneSU/troubleshooting/exceptions-for-kaspersky/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/troubleshooting/exceptions-for-kaspersky/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/troubleshooting/exceptions-for-kaspersky/"/>
+    </url>
+    <url>
+        <loc>NoneSU/troubleshooting/installation/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/troubleshooting/installation/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/troubleshooting/installation/"/>
+    </url>
+    <url>
+        <loc>NoneSU/troubleshooting/known-bugs/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/troubleshooting/known-bugs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/troubleshooting/known-bugs/"/>
+    </url>
+    <url>
+        <loc>NoneSU/troubleshooting/problems-joining-a-lobby/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/troubleshooting/problems-joining-a-lobby/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/troubleshooting/problems-joining-a-lobby/"/>
+    </url>
+    <url>
+        <loc>NoneSU/tutorials/installation/settlers-united-installation/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/tutorials/installation/settlers-united-installation/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/tutorials/installation/settlers-united-installation/"/>
+    </url>
+    <url>
+        <loc>Nonede/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonede/S3/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/"/>
+    </url>
+    <url>
+        <loc>Nonede/S3/combat-mechanics/damage-and-strength/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/combat-mechanics/damage-and-strength/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/combat-mechanics/damage-and-strength/"/>
+    </url>
+    <url>
+        <loc>Nonede/S3/combat-mechanics/soldiers-and-wonders/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/combat-mechanics/soldiers-and-wonders/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/combat-mechanics/soldiers-and-wonders/"/>
+    </url>
+    <url>
+        <loc>Nonede/S3/combat-mechanics/unit-values/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/combat-mechanics/unit-values/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/combat-mechanics/unit-values/"/>
+    </url>
+    <url>
+        <loc>Nonede/S3/mana-and-magic/area-of-effect/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/mana-and-magic/area-of-effect/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/mana-and-magic/area-of-effect/"/>
+    </url>
+    <url>
+        <loc>Nonede/S3/mana-and-magic/basics/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/mana-and-magic/basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/mana-and-magic/basics/"/>
+    </url>
+    <url>
+        <loc>Nonede/S3/mana-and-magic/cost-progression/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/mana-and-magic/cost-progression/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/mana-and-magic/cost-progression/"/>
+    </url>
+    <url>
+        <loc>Nonede/S3/mana-and-magic/table-of-knowledge/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S3/mana-and-magic/table-of-knowledge/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS3/mana-and-magic/table-of-knowledge/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/basics/abbreviations/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/basics/abbreviations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/basics/abbreviations/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/basics/buildsite-priority/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/basics/buildsite-priority/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/basics/buildsite-priority/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/basics/terrain-and-roads/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/basics/terrain-and-roads/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/basics/terrain-and-roads/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/basics/working-radius/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/basics/working-radius/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/basics/working-radius/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/combat-mechanics/attack-canceling/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/combat-mechanics/attack-canceling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/combat-mechanics/attack-canceling/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/combat-mechanics/effects-of-fighting-strength/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/combat-mechanics/effects-of-fighting-strength/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/combat-mechanics/effects-of-fighting-strength/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/combat-mechanics/einheitenwerte/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/combat-mechanics/einheitenwerte/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/combat-mechanics/einheitenwerte/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/combat-mechanics/fighting-strength-calculationg/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/combat-mechanics/fighting-strength-calculationg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/combat-mechanics/fighting-strength-calculationg/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/multiplayer/getting-started-in-s4-multiplayer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/multiplayer/getting-started-in-s4-multiplayer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/multiplayer/getting-started-in-s4-multiplayer/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/multiplayer/settlers-united/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/multiplayer/settlers-united/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/multiplayer/settlers-united/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/multiplayer/transport%2B-kohlebug-fix/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/multiplayer/transport%2B-kohlebug-fix/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/multiplayer/transport%2B-kohlebug-fix/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/multiplayer/ultimate-balance-overhaul-ubo/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/multiplayer/ultimate-balance-overhaul-ubo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/multiplayer/ultimate-balance-overhaul-ubo/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/productionratios/he-maximum-buildup-2-1-gold/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/productionratios/he-maximum-buildup-2-1-gold/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/productionratios/he-maximum-buildup-2-1-gold/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/productionratios/nahrungsindustrie/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/productionratios/nahrungsindustrie/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/productionratios/nahrungsindustrie/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/productionratios/ressource-pro-minute/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/productionratios/ressource-pro-minute/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/productionratios/ressource-pro-minute/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/productionratios/schwerindustrie/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/productionratios/schwerindustrie/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/productionratios/schwerindustrie/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/productionratios/ticks-ressource/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/productionratios/ticks-ressource/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/productionratios/ticks-ressource/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/tipps-tricks/minenmechanik/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/tipps-tricks/minenmechanik/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/tipps-tricks/minenmechanik/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/tipps-tricks/s4editor%2B/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/tipps-tricks/s4editor%2B/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/tipps-tricks/s4editor%2B/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/tipps-tricks/score-formula-for-the-final-statistic/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/tipps-tricks/score-formula-for-the-final-statistic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/tipps-tricks/score-formula-for-the-final-statistic/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/tipps-tricks/troja-9er-batterie/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/tipps-tricks/troja-9er-batterie/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/tipps-tricks/troja-9er-batterie/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/tipps-tricks/turmradius/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/tipps-tricks/turmradius/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/tipps-tricks/turmradius/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/archer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/archer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/archer/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/axewarrior/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/axewarrior/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/axewarrior/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/blowgunwarrior/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/blowgunwarrior/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/blowgunwarrior/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/gardener/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/gardener/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/gardener/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/geologist/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/geologist/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/geologist/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/medics/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/medics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/medics/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/pioneer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/pioneer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/pioneer/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/priest/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/priest/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/priest/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/rucksackkatapultist/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/rucksackkatapultist/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/rucksackkatapultist/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/saboteur/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/saboteur/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/saboteur/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/squad-leader/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/squad-leader/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/squad-leader/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/swordsman/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/swordsman/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/swordsman/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4/units/thief/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4/units/thief/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4/units/thief/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/ai/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/ai/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/ai/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/buildings/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/buildings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/buildings/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/control/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/control/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/control/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/dialog/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/dialog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/dialog/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/effects/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/effects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/effects/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/events/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/events/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/events/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/game/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/game/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/game/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/goods/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/goods/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/goods/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/magic/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/magic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/magic/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/menu/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/menu/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/menu/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/settlers/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/settlers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/settlers/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/sounds/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/sounds/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/sounds/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/api-enums/vehicles/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/api-enums/vehicles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/api-enums/vehicles/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/ai/ai.attacknow/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/ai/ai.attacknow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/ai/ai.attacknow/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/ai/ai.darktribeusedarkgardeners/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/ai/ai.darktribeusedarkgardeners/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/ai/ai.darktribeusedarkgardeners/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/ai/ai.darktribeuseshamans/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/ai/ai.darktribeuseshamans/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/ai/ai.darktribeuseshamans/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/ai/ai.newsquad/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/ai/ai.newsquad/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/ai/ai.newsquad/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/ai/ai.setplayervar/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/ai/ai.setplayervar/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/ai/ai.setplayervar/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/buildings/buildings.addbuilding/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.addbuilding/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.addbuilding/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/buildings/buildings.amount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.amount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.amount/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/buildings/buildings.crushbuilding/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.crushbuilding/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.crushbuilding/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/buildings/buildings.delete/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.delete/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.delete/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/buildings/buildings.existsbuildinginarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.existsbuildinginarea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.existsbuildinginarea/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/buildings/buildings.getfirstbuilding/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.getfirstbuilding/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.getfirstbuilding/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/buildings/buildings.getinhabitantamount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.getinhabitantamount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.getinhabitantamount/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/buildings/buildings.gettarget/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.gettarget/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.gettarget/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/buildings/buildings.isselected/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/buildings/buildings.isselected/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/buildings/buildings.isselected/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/darktribe/darktribe.addmanakopter/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/darktribe/darktribe.addmanakopter/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/darktribe/darktribe.addmanakopter/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/darktribe/darktribe.flyto/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/darktribe/darktribe.flyto/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/darktribe/darktribe.flyto/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/dbg/dbg.aioff/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.aioff/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.aioff/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/dbg/dbg.aion/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.aion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.aion/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/dbg/dbg.db/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.db/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.db/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/dbg/dbg.pi/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.pi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.pi/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/dbg/dbg.sg/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.sg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.sg/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/dbg/dbg.stm/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.stm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.stm/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/dbg/dbg.tp/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/dbg/dbg.tp/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/dbg/dbg.tp/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/debug/debug.accessviolation/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.accessviolation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.accessviolation/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/debug/debug.activateai/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.activateai/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.activateai/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/debug/debug.deactivateai/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.deactivateai/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.deactivateai/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/debug/debug.fatalerror/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.fatalerror/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.fatalerror/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/debug/debug.freeze/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.freeze/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.freeze/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/debug/debug.makedark/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.makedark/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.makedark/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/debug/debug.makegreen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/debug/debug.makegreen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/debug/debug.makegreen/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/effects/effects.addeffect/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/effects/effects.addeffect/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/effects/effects.addeffect/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.areplayerareasconnected/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.areplayerareasconnected/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.areplayerareasconnected/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.defaultgameendcheck/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.defaultgameendcheck/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.defaultgameendcheck/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.defaultplayerlostcheck/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.defaultplayerlostcheck/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.defaultplayerlostcheck/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.defaultplayerslostcheck/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.defaultplayerslostcheck/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.defaultplayerslostcheck/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.disablelastnplayersinstatistic/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.disablelastnplayersinstatistic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.disablelastnplayersinstatistic/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.enablelandexploredcheck/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.enablelandexploredcheck/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.enablelandexploredcheck/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.enemyplayerslost/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.enemyplayerslost/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.enemyplayerslost/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.findanyunit/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.findanyunit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.findanyunit/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.getamountoftreesinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.getamountoftreesinarea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.getamountoftreesinarea/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.getdifficulty/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.getdifficulty/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.getdifficulty/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.getnumberofsquareswithdarkland/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.getnumberofsquareswithdarkland/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.getnumberofsquareswithdarkland/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.getoffencefightingstrength/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.getoffencefightingstrength/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.getoffencefightingstrength/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.hasplayerlost/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.hasplayerlost/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.hasplayerlost/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.isalmostalllandexplored/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.isalmostalllandexplored/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.isalmostalllandexplored/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.isareadarkland/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.isareadarkland/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.isareadarkland/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.isareagreen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.isareagreen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.isareagreen/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.isareaowned/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.isareaowned/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.isareaowned/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.localplayer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.localplayer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.localplayer/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.numberofplayers/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.numberofplayers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.numberofplayers/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.playerlost/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.playerlost/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.playerlost/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.playerrace/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.playerrace/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.playerrace/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.random/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.random/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.random/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.random100/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.random100/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.random100/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.resetfogging/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.resetfogging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.resetfogging/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.setalliesdontrevealfog/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.setalliesdontrevealfog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.setalliesdontrevealfog/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.setfightingstrength/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.setfightingstrength/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.setfightingstrength/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.showclock/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.showclock/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.showclock/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.showtext/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.showtext/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.showtext/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/game/game.time/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/game/game.time/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/game/game.time/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/global-functions/new_game/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/global-functions/new_game/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/global-functions/new_game/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/global-functions/reg_func/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/global-functions/reg_func/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/global-functions/reg_func/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/global-functions/register_functions/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/global-functions/register_functions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/global-functions/register_functions/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/global-functions/request_event/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/global-functions/request_event/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/global-functions/request_event/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/global-functions/unrequest_event/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/global-functions/unrequest_event/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/global-functions/unrequest_event/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/goods/goods.addpileex/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/goods/goods.addpileex/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/goods/goods.addpileex/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/goods/goods.amount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/goods/goods.amount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/goods/goods.amount/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/goods/goods.delete/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/goods/goods.delete/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/goods/goods.delete/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/goods/goods.getamountinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/goods/goods.getamountinarea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/goods/goods.getamountinarea/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/magic/magic.castspell/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/magic/magic.castspell/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/magic/magic.castspell/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/magic/magic.currentmanaamount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/magic/magic.currentmanaamount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/magic/magic.currentmanaamount/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/magic/magic.decreasemana/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/magic/magic.decreasemana/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/magic/magic.decreasemana/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/magic/magic.increasemana/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/magic/magic.increasemana/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/magic/magic.increasemana/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/map/map.adddecoobject/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.adddecoobject/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.adddecoobject/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/map/map.deletedecoobject/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.deletedecoobject/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.deletedecoobject/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/map/map.height/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.height/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.height/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/map/map.pointisonscreen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.pointisonscreen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.pointisonscreen/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/map/map.setscreenpos/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.setscreenpos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.setscreenpos/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/map/map.width/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/map/map.width/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/map/map.width/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/settlers/settlers.addsettlers/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.addsettlers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.addsettlers/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/settlers/settlers.addsettlerstoferry/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.addsettlerstoferry/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.addsettlerstoferry/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/settlers/settlers.amount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.amount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.amount/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/settlers/settlers.amountinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.amountinarea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.amountinarea/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/settlers/settlers.amountinsector/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.amountinsector/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.amountinsector/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/settlers/settlers.isselected/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.isselected/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.isselected/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/settlers/settlers.killselectablesettlers/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.killselectablesettlers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.killselectablesettlers/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/settlers/settlers.productionamount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.productionamount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.productionamount/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/settlers/settlers.sethealthinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/settlers/settlers.sethealthinarea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/settlers/settlers.sethealthinarea/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/statistic/statistic.buildingscaptured/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.buildingscaptured/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.buildingscaptured/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/statistic/statistic.goodsproduced/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.goodsproduced/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.goodsproduced/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/statistic/statistic.landownedbyplayer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.landownedbyplayer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.landownedbyplayer/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/statistic/statistic.manacollected/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.manacollected/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.manacollected/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/statistic/statistic.mushroomfarmsdestroyed/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.mushroomfarmsdestroyed/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.mushroomfarmsdestroyed/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/statistic/statistic.servantsfreed/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.servantsfreed/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.servantsfreed/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/statistic/statistic.spellscast/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.spellscast/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.spellscast/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/statistic/statistic.unitsdestroyed/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/statistic/statistic.unitsdestroyed/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/statistic/statistic.unitsdestroyed/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.clearmarker/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.clearmarker/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.clearmarker/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.deleteworldcursor/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.deleteworldcursor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.deleteworldcursor/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.disablecontrols/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.disablecontrols/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.disablecontrols/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.disableexcept/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.disableexcept/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.disableexcept/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.enableallcontrols/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.enableallcontrols/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.enableallcontrols/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.enablecontrols/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.enablecontrols/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.enablecontrols/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.exit/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.exit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.exit/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.getcurrentzoomfactor/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.getcurrentzoomfactor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.getcurrentzoomfactor/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.pressbutton/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.pressbutton/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.pressbutton/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.rwm/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.rwm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.rwm/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.selectnextbuilding/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.selectnextbuilding/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.selectnextbuilding/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.setmarker/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.setmarker/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.setmarker/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.setworldcursor/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.setworldcursor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.setworldcursor/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.setzoom/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.setzoom/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.setzoom/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.showtext/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.showtext/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.showtext/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/tutorial/tutorial.won/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/tutorial/tutorial.won/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/tutorial/tutorial.won/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/vehicles/vehicles.addvehicle/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.addvehicle/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.addvehicle/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/vehicles/vehicles.addwheelertoferry/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.addwheelertoferry/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.addwheelertoferry/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/vehicles/vehicles.amount/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.amount/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.amount/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/vehicles/vehicles.amountinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.amountinarea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.amountinarea/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/vehicles/vehicles.amountinsector/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.amountinsector/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.amountinsector/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/vehicles/vehicles.getferrycargoinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.getferrycargoinarea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.getferrycargoinarea/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/vehicles/vehicles.gethealth/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.gethealth/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.gethealth/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/vehicles/vehicles.isselected/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.isselected/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.isselected/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/library-functions/vehicles/vehicles.killvehicles/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/library-functions/vehicles/vehicles.killvehicles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/library-functions/vehicles/vehicles.killvehicles/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/advanced-tipps/anticheat/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/anticheat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/anticheat/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/advanced-tipps/delete-all-buildings/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/delete-all-buildings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/delete-all-buildings/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/advanced-tipps/die-vars.save-variablen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/die-vars.save-variablen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/die-vars.save-variablen/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/advanced-tipps/moderner-lua-compiler/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/moderner-lua-compiler/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/moderner-lua-compiler/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/advanced-tipps/place-buildings/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/place-buildings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/place-buildings/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/advanced-tipps/s4editor-export-path-changer/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/advanced-tipps/s4editor-export-path-changer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/advanced-tipps/s4editor-export-path-changer/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/beginning/entrypoint-new_game/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/beginning/entrypoint-new_game/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/beginning/entrypoint-new_game/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/beginning/entrypoint-register_functions-events-1/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/beginning/entrypoint-register_functions-events-1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/beginning/entrypoint-register_functions-events-1/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/beginning/installation-and-aufsetzen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/beginning/installation-and-aufsetzen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/beginning/installation-and-aufsetzen/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/beginning/siegbedingungen-anpassen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/beginning/siegbedingungen-anpassen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/beginning/siegbedingungen-anpassen/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/code-snippets/all-points-in-a-circle-hexagon/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/all-points-in-a-circle-hexagon/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/all-points-in-a-circle-hexagon/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/code-snippets/anzahl-soldaten/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/anzahl-soldaten/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/anzahl-soldaten/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/code-snippets/better-randomnumbers/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/better-randomnumbers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/better-randomnumbers/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/code-snippets/foreach_ext/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/foreach_ext/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/foreach_ext/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/code-snippets/mehr-als-8-waren-spawnen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/mehr-als-8-waren-spawnen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/mehr-als-8-waren-spawnen/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/code-snippets/neue-minute-angebrochen/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/neue-minute-angebrochen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/neue-minute-angebrochen/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/code-snippets/random-innerhalb-bereich/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/random-innerhalb-bereich/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/random-innerhalb-bereich/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/code-snippets/round-and-modulo/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/round-and-modulo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/round-and-modulo/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/code-snippets/textnachricht-nur-fuer-einen-spieler/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/code-snippets/textnachricht-nur-fuer-einen-spieler/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/code-snippets/textnachricht-nur-fuer-einen-spieler/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/community-libraries/lua-ground-library/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/community-libraries/lua-ground-library/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/community-libraries/lua-ground-library/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/community-libraries/lua-minute-events-library/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/community-libraries/lua-minute-events-library/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/community-libraries/lua-minute-events-library/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/community-libraries/lua-vars-save-extender/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/community-libraries/lua-vars-save-extender/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/community-libraries/lua-vars-save-extender/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/complete-mapscripts/tournament-map-script-1/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/complete-mapscripts/tournament-map-script-1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/complete-mapscripts/tournament-map-script-1/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-Lua/tutorials/complete-mapscripts/tournament-map-script/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-Lua/tutorials/complete-mapscripts/tournament-map-script/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-Lua/tutorials/complete-mapscripts/tournament-map-script/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-RE/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-RE/concepts/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/concepts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/concepts/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-RE/concepts/config/defaults/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/concepts/config/defaults/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/concepts/config/defaults/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-RE/concepts/config/syntax/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/concepts/config/syntax/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/concepts/config/syntax/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-RE/structs/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-RE/structs/generic/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/generic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/generic/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-RE/structs/GfxEngine/CGfxManager/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/GfxEngine/CGfxManager/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/GfxEngine/CGfxManager/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-RE/structs/config/CConfigManager/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/config/CConfigManager/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/config/CConfigManager/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-RE/structs/config/CConfigVar/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/config/CConfigVar/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/config/CConfigVar/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-RE/structs/ui/UIElement/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-RE/structs/ui/UIElement/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-RE/structs/ui/UIElement/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/tutorials/is-the-plugin-loaded/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/tutorials/is-the-plugin-loaded/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/tutorials/is-the-plugin-loaded/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-enums/movementtype/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-enums/movementtype/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-enums/movementtype/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-enums/resourcetype/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-enums/resourcetype/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-enums/resourcetype/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.garrisonwarriors/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.garrisonwarriors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.garrisonwarriors/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.getplayername/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.getplayername/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.getplayername/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountat/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountat/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountinarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountinarea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.getresourcecountinarea/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.ishuman/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.ishuman/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.ishuman/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.recruitwarriors/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.recruitwarriors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.recruitwarriors/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.selectwarriors/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.selectwarriors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.selectwarriors/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.send/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.send/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.send/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.setbuildingworkarea/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.setbuildingworkarea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.setbuildingworkarea/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.settradingroute/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.settradingroute/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.settradingroute/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.storegood/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.storegood/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.storegood/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.tradegood/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.tradegood/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.tradegood/"/>
+    </url>
+    <url>
+        <loc>Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.ungarrisonwarriors/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/S4-WarriorsLib/warriorslib-functions/warriorslib.ungarrisonwarriors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneS4-WarriorsLib/warriorslib-functions/warriorslib.ungarrisonwarriors/"/>
+    </url>
+    <url>
+        <loc>Nonede/SU/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/"/>
+    </url>
+    <url>
+        <loc>Nonede/SU/troubleshooting/exceptions-for-kaspersky/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/troubleshooting/exceptions-for-kaspersky/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/troubleshooting/exceptions-for-kaspersky/"/>
+    </url>
+    <url>
+        <loc>Nonede/SU/troubleshooting/installation/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/troubleshooting/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/troubleshooting/installation/"/>
+    </url>
+    <url>
+        <loc>Nonede/SU/troubleshooting/known-bugs/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/troubleshooting/known-bugs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/troubleshooting/known-bugs/"/>
+    </url>
+    <url>
+        <loc>Nonede/SU/troubleshooting/problems-joining-a-lobby/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/troubleshooting/problems-joining-a-lobby/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/troubleshooting/problems-joining-a-lobby/"/>
+    </url>
+    <url>
+        <loc>Nonede/SU/tutorials/installation/settlers-united-installation/</loc>
+        <lastmod>2024-05-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="Nonede/SU/tutorials/installation/settlers-united-installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="NoneSU/tutorials/installation/settlers-united-installation/"/>
+    </url>
+</urlset>
